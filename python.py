@@ -147,7 +147,6 @@
 #         i+=3
 # print(str1)
 
-
 # computer_parts=["computer", "monitor", "mouse", "printer"]
 # for i in computer_parts:
 #     print(i)
